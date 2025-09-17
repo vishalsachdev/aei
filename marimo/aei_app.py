@@ -25,7 +25,9 @@ def geography_options(df: pd.DataFrame) -> list[str]:
     return sorted(df["geography"].unique())
 
 
-def geo_id_options(df: pd.DataFrame, geography: str, top_n: int = 25) -> list[str]:
+def geo_id_options(
+    df: pd.DataFrame, geography: str, top_n: int = 25
+) -> list[str]:
     mask = (
         (df["geography"] == geography)
         & (df["facet"] == geography)
@@ -39,7 +41,9 @@ def geo_id_options(df: pd.DataFrame, geography: str, top_n: int = 25) -> list[st
     return summary["geo_id"].tolist()
 
 
-def usage_summary(df: pd.DataFrame, geography: str, top_n: int = 10) -> pd.DataFrame:
+def usage_summary(
+    df: pd.DataFrame, geography: str, top_n: int = 10
+) -> pd.DataFrame:
     mask = (
         (df["geography"] == geography)
         & (df["facet"] == geography)
@@ -55,7 +59,9 @@ def usage_summary(df: pd.DataFrame, geography: str, top_n: int = 10) -> pd.DataF
 
 
 def collaboration_breakdown(
-    df: pd.DataFrame, geography: str, geo_id: str
+    df: pd.DataFrame,
+    geography: str,
+    geo_id: str,
 ) -> pd.DataFrame:
     mask = (
         (df["geography"] == geography)
@@ -65,7 +71,12 @@ def collaboration_breakdown(
     )
     breakdown = (
         df.loc[mask, ["cluster_name", "value"]]
-        .rename(columns={"cluster_name": "Collaboration pattern", "value": "Share %"})
+        .rename(
+            columns={
+                "cluster_name": "Collaboration pattern",
+                "value": "Share %",
+            }
+        )
         .query("`Collaboration pattern` != 'not_classified'")
         .sort_values("Share %", ascending=False)
     )
@@ -74,15 +85,24 @@ def collaboration_breakdown(
 
 def collaboration_chart(data: pd.DataFrame) -> alt.Chart:
     if data.empty:
-        return alt.Chart(pd.DataFrame({"Share %": [], "Collaboration pattern": []}))
+        return alt.Chart(
+            pd.DataFrame({"Share %": [], "Collaboration pattern": []})
+        )
 
     return (
         alt.Chart(data)
         .mark_bar()
         .encode(
             x=alt.X("Share %", title="Share of conversations (%)"),
-            y=alt.Y("Collaboration pattern", sort="-x", title="Pattern"),
-            tooltip=["Collaboration pattern", alt.Tooltip("Share %", format=".2f")],
+            y=alt.Y(
+                "Collaboration pattern",
+                sort="-x",
+                title="Pattern",
+            ),
+            tooltip=[
+                "Collaboration pattern",
+                alt.Tooltip("Share %", format=".2f"),
+            ],
         )
         .properties(height=280)
     )
@@ -93,33 +113,36 @@ app = mo.App(width="full")
 
 @app.cell
 def title(mo=mo):
-    return mo.md("# Anthropic Economic Index Explorer")
+    title = mo.md("# Anthropic Economic Index Explorer")
+    return title
 
 
 @app.cell
 def dataset_selector(datasets=DATASETS, mo=mo):
-    selector = mo.ui.radio(
+    dataset_selector = mo.ui.radio(
         options=list(datasets.keys()),
         value="Claude.ai usage",
         label="Select dataset",
     )
-    return selector
+    return dataset_selector
 
 
 @app.cell
 def df(dataset_selector, load_dataset=load_dataset):
-    return load_dataset(dataset_selector.value)
+    df = load_dataset(dataset_selector.value)
+    return df
 
 
 @app.cell
 def dataset_overview(df, mo=mo):
-    return mo.vstack(
+    dataset_overview = mo.vstack(
         [
             mo.md("### Dataset overview"),
             mo.stat.value(label="Rows", value=f"{len(df):,}"),
             mo.stat.text(
                 label="Columns",
-                text=", ".join(df.columns[:6]) + ("…" if len(df.columns) > 6 else ""),
+                text=", ".join(df.columns[:6])
+                + ("…" if len(df.columns) > 6 else ""),
             ),
             mo.stat.text(
                 label="Date range",
@@ -128,17 +151,23 @@ def dataset_overview(df, mo=mo):
         ],
         gap="small",
     )
+    return dataset_overview
 
 
 @app.cell
-def geography_selector(df, geography_options_fn=geography_options, mo=mo):
+def geography_selector(
+    df,
+    geography_options_fn=geography_options,
+    mo=mo,
+):
     geo_options = geography_options_fn(df)
     geo_initial = "country" if "country" in geo_options else geo_options[0]
-    return mo.ui.select(
+    geography_selector = mo.ui.select(
         options=geo_options,
         value=geo_initial,
         label="Geography level",
     )
+    return geography_selector
 
 
 @app.cell
@@ -150,11 +179,12 @@ def region_selector(
 ):
     region_options = geo_id_options_fn(df, geography_selector.value)
     region_initial = region_options[0] if region_options else "GLOBAL"
-    return mo.ui.select(
+    region_selector = mo.ui.select(
         options=region_options,
         value=region_initial,
         label="Region focus",
     )
+    return region_selector
 
 
 @app.cell
@@ -165,7 +195,7 @@ def usage_view(
     mo=mo,
 ):
     summary_table = usage_summary_fn(df, geography_selector.value)
-    return mo.vstack(
+    usage_view = mo.vstack(
         [
             mo.hstack(
                 [
@@ -181,6 +211,7 @@ def usage_view(
             mo.ui.table(summary_table, max_height=320),
         ]
     )
+    return usage_view
 
 
 @app.cell
@@ -194,7 +225,7 @@ def collaboration_view(
 ):
     breakdown = breakdown_fn(df, geography_selector.value, region_selector.value)
     chart = chart_fn(breakdown)
-    return mo.vstack(
+    collaboration_view = mo.vstack(
         [
             mo.md(f"### Collaboration patterns: {region_selector.value}"),
             mo.ui.altair_chart(chart, key="collab-chart"),
@@ -202,11 +233,12 @@ def collaboration_view(
         ],
         gap="medium",
     )
+    return collaboration_view
 
 
 @app.cell
 def discussion_prompts(mo=mo):
-    return mo.md(
+    discussion_prompts = mo.md(
         """
 ### Discussion prompts
 
@@ -215,6 +247,7 @@ def discussion_prompts(mo=mo):
 - Compare two regions of interest: what collaboration pattern differences stand out and what workflows could they reflect?
 """
     )
+    return discussion_prompts
 
 
 if __name__ == "__main__":
