@@ -103,32 +103,51 @@ app = mo.App(width="wide")
 
 @app.cell
 def _():
-    mo.md("# Anthropic Economic Index Explorer")
+    import marimo as mo
+
+    return mo
 
 
 @app.cell
-def _():
+def _(mo):
+    return mo.md("# Anthropic Economic Index Explorer")
+
+
+@app.cell
+def _(mo):
     dataset_selector = mo.ui.radio(
         options=list(DATASETS.keys()),
         value="Claude.ai usage",
         label="Select dataset",
     )
-    dataset_selector
+
+    return dataset_selector
 
 
 @app.cell
 def _(dataset_selector):
     df = load_dataset(dataset_selector.value)
+
+    return df
+
+
+@app.cell
+def _(mo, df):
     summary = {
         "Rows": f"{len(df):,}",
         "Columns": df.columns.tolist(),
         "Date range": f"{df['date_start'].min()} → {df['date_end'].max()}",
     }
-    mo.vstack(
+
+    return mo.vstack(
         [
             mo.md("### Dataset overview"),
             mo.stat.value(label="Rows", value=summary["Rows"]),
-            mo.stat.text(label="Columns", text=", ".join(summary["Columns"][:6]) + ("…" if len(summary["Columns"]) > 6 else "")),
+            mo.stat.text(
+                label="Columns",
+                text=", ".join(summary["Columns"][:6])
+                + ("…" if len(summary["Columns"]) > 6 else ""),
+            ),
             mo.stat.text(label="Date range", text=summary["Date range"]),
         ],
         gap="small",
@@ -136,8 +155,7 @@ def _(dataset_selector):
 
 
 @app.cell
-def _(dataset_selector):
-    df = load_dataset(dataset_selector.value)
+def _(mo, df):
     options = geography_options(df)
     default = "country" if "country" in options else options[0]
     geography_selector = mo.ui.select(
@@ -145,12 +163,12 @@ def _(dataset_selector):
         value=default,
         label="Geography level",
     )
-    geography_selector
+
+    return geography_selector
 
 
 @app.cell
-def _(dataset_selector, geography_selector):
-    df = load_dataset(dataset_selector.value)
+def _(mo, df, geography_selector):
     options = geo_id_options(df, geography_selector.value)
     default = options[0] if options else "GLOBAL"
     geo_selector = mo.ui.select(
@@ -158,14 +176,15 @@ def _(dataset_selector, geography_selector):
         value=default,
         label="Region focus",
     )
-    geo_selector
+
+    return geo_selector
 
 
 @app.cell
-def _(dataset_selector, geography_selector):
-    df = load_dataset(dataset_selector.value)
-    summary = usage_summary(df, geography_selector.value)
-    mo.vstack(
+def _(mo, df, geography_selector):
+    summary_table = usage_summary(df, geography_selector.value)
+
+    return mo.vstack(
         [
             mo.hstack(
                 [
@@ -181,19 +200,19 @@ geography level.
                 align="top",
                 gap="large",
             ),
-            mo.ui.table(summary, max_height=320),
+            mo.ui.table(summary_table, max_height=320),
         ]
     )
 
 
 @app.cell
-def _(dataset_selector, geography_selector, geo_selector):
-    df = load_dataset(dataset_selector.value)
+def _(mo, df, geography_selector, geo_selector):
     breakdown = collaboration_breakdown(
         df, geography_selector.value, geo_selector.value
     )
     chart = collaboration_chart(breakdown)
-    mo.vstack(
+
+    return mo.vstack(
         [
             mo.md(f"### Collaboration patterns: {geo_selector.value}"),
             mo.ui.altair_chart(chart, key="collab-chart"),
@@ -204,8 +223,8 @@ def _(dataset_selector, geography_selector, geo_selector):
 
 
 @app.cell
-def _():
-    mo.md(
+def _(mo):
+    return mo.md(
         """
 ### Discussion prompts
 
