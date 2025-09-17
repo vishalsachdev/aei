@@ -4,7 +4,7 @@ The notebook loads packaged CSV assets (bundled via importlib.resources)
 so it can be exported to a self-contained WASM experience.
 """
 
-import marimo as mo
+import marimo
 import pandas as pd
 import altair as alt
 
@@ -98,19 +98,15 @@ def collaboration_chart(data: pd.DataFrame) -> alt.Chart:
     )
 
 
-app = mo.App(width="full")
+app = marimo.App(width="full")
 
 
 @app.cell
-def _():
+def __():
     import marimo as mo
 
+    yield mo.md("# Anthropic Economic Index Explorer")
     return mo
-
-
-@app.cell
-def _(mo):
-    return mo.md("# Anthropic Economic Index Explorer")
 
 
 @app.cell
@@ -121,6 +117,7 @@ def _(mo):
         label="Select dataset",
     )
 
+    yield dataset_selector
     return dataset_selector
 
 
@@ -132,30 +129,29 @@ def _(dataset_selector):
 
 
 @app.cell
-def _(mo, df):
-    summary = {
-        "Rows": f"{len(df):,}",
-        "Columns": df.columns.tolist(),
-        "Date range": f"{df['date_start'].min()} → {df['date_end'].max()}",
-    }
-
-    return mo.vstack(
+def _(df, mo):
+    overview = mo.vstack(
         [
             mo.md("### Dataset overview"),
-            mo.stat.value(label="Rows", value=summary["Rows"]),
+            mo.stat.value(label="Rows", value=f"{len(df):,}"),
             mo.stat.text(
                 label="Columns",
-                text=", ".join(summary["Columns"][:6])
-                + ("…" if len(summary["Columns"]) > 6 else ""),
+                text=", ".join(df.columns[:6])
+                + ("…" if len(df.columns) > 6 else ""),
             ),
-            mo.stat.text(label="Date range", text=summary["Date range"]),
+            mo.stat.text(
+                label="Date range",
+                text=f"{df['date_start'].min()} → {df['date_end'].max()}",
+            ),
         ],
         gap="small",
     )
 
+    yield overview
+
 
 @app.cell
-def _(mo, df):
+def _(df, mo):
     options = geography_options(df)
     default = "country" if "country" in options else options[0]
     geography_selector = mo.ui.select(
@@ -164,11 +160,12 @@ def _(mo, df):
         label="Geography level",
     )
 
+    yield geography_selector
     return geography_selector
 
 
 @app.cell
-def _(mo, df, geography_selector):
+def _(df, geography_selector, mo):
     options = geo_id_options(df, geography_selector.value)
     default = options[0] if options else "GLOBAL"
     geo_selector = mo.ui.select(
@@ -177,14 +174,15 @@ def _(mo, df, geography_selector):
         label="Region focus",
     )
 
+    yield geo_selector
     return geo_selector
 
 
 @app.cell
-def _(mo, df, geography_selector):
+def _(df, geography_selector, mo):
     summary_table = usage_summary(df, geography_selector.value)
 
-    return mo.vstack(
+    summary_view = mo.vstack(
         [
             mo.hstack(
                 [
@@ -204,15 +202,17 @@ geography level.
         ]
     )
 
+    yield summary_view
+
 
 @app.cell
-def _(mo, df, geography_selector, geo_selector):
+def _(df, geography_selector, geo_selector, mo):
     breakdown = collaboration_breakdown(
         df, geography_selector.value, geo_selector.value
     )
     chart = collaboration_chart(breakdown)
 
-    return mo.vstack(
+    collaboration_view = mo.vstack(
         [
             mo.md(f"### Collaboration patterns: {geo_selector.value}"),
             mo.ui.altair_chart(chart, key="collab-chart"),
@@ -221,10 +221,12 @@ def _(mo, df, geography_selector, geo_selector):
         gap="medium",
     )
 
+    yield collaboration_view
+
 
 @app.cell
 def _(mo):
-    return mo.md(
+    discussion = mo.md(
         """
 ### Discussion prompts
 
@@ -233,6 +235,8 @@ def _(mo):
 - Compare two regions of interest: what collaboration pattern differences stand out and what workflows could they reflect?
 """
     )
+
+    yield discussion
 
 
 if __name__ == "__main__":
