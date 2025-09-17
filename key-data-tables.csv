@@ -1,0 +1,46 @@
+table_name,metric,value,period,notes
+geographic_leaders,Israel_AUI,7.0,Aug_2025,Highest AI adoption rate
+geographic_leaders,Singapore_AUI,4.57,Aug_2025,Tech hub concentration
+geographic_leaders,Australia_AUI,4.10,Aug_2025,Developed economy
+geographic_leaders,New_Zealand_AUI,4.05,Aug_2025,High per capita adoption
+geographic_leaders,South_Korea_AUI,3.73,Aug_2025,Technology leader
+geographic_leaders,Canada_AUI,2.9,Aug_2025,High developed country adoption
+geographic_laggards,Nigeria_AUI,0.20,Aug_2025,Emerging economy low adoption
+geographic_laggards,India_AUI,0.27,Aug_2025,Large population low per capita
+geographic_laggards,Indonesia_AUI,0.36,Aug_2025,Emerging economy
+us_state_leaders,Washington_DC_AUI,3.82,Aug_2025,Government sector specialization
+us_state_leaders,Utah_AUI,3.78,Aug_2025,Tech sector concentration
+us_state_leaders,California_AUI,2.13,Aug_2025,IT/technology focus
+usage_distribution,US_global_share,21.6,Aug_2025,Percent of global usage
+usage_distribution,India_global_share,7.2,Aug_2025,Despite low per capita
+usage_distribution,Brazil_global_share,3.7,Aug_2025,Latin America leader
+usage_distribution,California_US_share,25.3,Aug_2025,Percent of total US usage
+task_evolution,Coding_tasks_V3,36.0,Aug_2025,Dominant task category
+task_evolution,Educational_tasks_V1,9.3,Dec_2024,Starting baseline
+task_evolution,Educational_tasks_V3,12.4,Aug_2025,Growth in education
+task_evolution,Scientific_tasks_V1,6.3,Dec_2024,Starting baseline
+task_evolution,Scientific_tasks_V3,7.2,Aug_2025,Growth in science
+task_evolution,Business_ops_V1,6.0,Dec_2024,Starting baseline
+task_evolution,Business_ops_V3,3.0,Aug_2025,Decline in business ops
+collaboration_evolution,Directive_V1,27.0,Dec_2024,Starting automation rate
+collaboration_evolution,Directive_V3,39.0,Aug_2025,Increased automation
+collaboration_evolution,Code_creation_V2,4.1,Mar_2025,Starting baseline
+collaboration_evolution,Code_creation_V3,8.6,Aug_2025,Doubled creation tasks
+collaboration_evolution,Debugging_V2,16.1,Mar_2025,Starting baseline
+collaboration_evolution,Debugging_V3,13.3,Aug_2025,Reduced debugging needs
+platform_comparison,API_automation_rate,77.0,Aug_2025,Enterprise automation
+platform_comparison,Consumer_automation_rate,50.0,Aug_2025,Consumer automation
+platform_comparison,API_automation_dominant,97.0,Aug_2025,Percent of tasks automation-dominant
+economic_correlation,GDP_usage_elasticity,0.7,Aug_2025,1% GDP increase = 0.7% usage increase
+feature_impact,Web_search_before,0.03,Mar_2025,Pre-feature baseline
+feature_impact,Web_search_after,0.49,Aug_2025,Post-feature growth
+feature_impact,Research_mode_before,0.003,Mar_2025,Pre-feature baseline
+feature_impact,Research_mode_after,0.27,Aug_2025,Post-feature growth
+feature_impact,Multimedia_docs_before,0.16,Mar_2025,Pre-artifacts baseline
+feature_impact,Multimedia_docs_after,0.55,Aug_2025,3x growth with artifacts
+feature_impact,Instructional_materials_before,0.2,Mar_2025,Pre-educator adoption
+feature_impact,Instructional_materials_after,1.5,Aug_2025,6x growth with educator adoption
+regional_specialization,India_coding_share,50.0,Aug_2025,Percent coding tasks in India
+regional_specialization,Global_coding_share,33.0,Aug_2025,Global average coding tasks
+adoption_trends,US_AI_workers_2025,40.0,2025,Percent using AI at work
+adoption_trends,US_AI_workers_2023,20.0,2023,Baseline two years prior
