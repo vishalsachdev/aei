@@ -1,11 +1,11 @@
 """Interactive AEI explorer built with marimo."""
 
-import marimo as mo
-import pandas as pd
-import altair as alt
-
 from functools import lru_cache
 from importlib import resources
+
+import altair as alt
+import marimo as mo
+import pandas as pd
 
 
 DATASETS = {
@@ -92,14 +92,14 @@ app = mo.App(width="full")
 
 
 @app.cell
-def title():
+def title(mo=mo):
     return mo.md("# Anthropic Economic Index Explorer")
 
 
 @app.cell
-def dataset_selector():
+def dataset_selector(datasets=DATASETS, mo=mo):
     selector = mo.ui.radio(
-        options=list(DATASETS.keys()),
+        options=list(datasets.keys()),
         value="Claude.ai usage",
         label="Select dataset",
     )
@@ -107,20 +107,19 @@ def dataset_selector():
 
 
 @app.cell
-def df(dataset_selector):
+def df(dataset_selector, load_dataset=load_dataset):
     return load_dataset(dataset_selector.value)
 
 
 @app.cell
-def dataset_overview(df):
+def dataset_overview(df, mo=mo):
     return mo.vstack(
         [
             mo.md("### Dataset overview"),
             mo.stat.value(label="Rows", value=f"{len(df):,}"),
             mo.stat.text(
                 label="Columns",
-                text=", ".join(df.columns[:6])
-                + ("…" if len(df.columns) > 6 else ""),
+                text=", ".join(df.columns[:6]) + ("…" if len(df.columns) > 6 else ""),
             ),
             mo.stat.text(
                 label="Date range",
@@ -132,8 +131,8 @@ def dataset_overview(df):
 
 
 @app.cell
-def geography_selector(df):
-    geo_options = geography_options(df)
+def geography_selector(df, geography_options_fn=geography_options, mo=mo):
+    geo_options = geography_options_fn(df)
     geo_initial = "country" if "country" in geo_options else geo_options[0]
     return mo.ui.select(
         options=geo_options,
@@ -143,8 +142,13 @@ def geography_selector(df):
 
 
 @app.cell
-def region_selector(df, geography_selector):
-    region_options = geo_id_options(df, geography_selector.value)
+def region_selector(
+    df,
+    geography_selector,
+    geo_id_options_fn=geo_id_options,
+    mo=mo,
+):
+    region_options = geo_id_options_fn(df, geography_selector.value)
     region_initial = region_options[0] if region_options else "GLOBAL"
     return mo.ui.select(
         options=region_options,
@@ -154,8 +158,13 @@ def region_selector(df, geography_selector):
 
 
 @app.cell
-def usage_view(df, geography_selector):
-    summary_table = usage_summary(df, geography_selector.value)
+def usage_view(
+    df,
+    geography_selector,
+    usage_summary_fn=usage_summary,
+    mo=mo,
+):
+    summary_table = usage_summary_fn(df, geography_selector.value)
     return mo.vstack(
         [
             mo.hstack(
@@ -175,11 +184,16 @@ def usage_view(df, geography_selector):
 
 
 @app.cell
-def collaboration_view(df, geography_selector, region_selector):
-    breakdown = collaboration_breakdown(
-        df, geography_selector.value, region_selector.value
-    )
-    chart = collaboration_chart(breakdown)
+def collaboration_view(
+    df,
+    geography_selector,
+    region_selector,
+    breakdown_fn=collaboration_breakdown,
+    chart_fn=collaboration_chart,
+    mo=mo,
+):
+    breakdown = breakdown_fn(df, geography_selector.value, region_selector.value)
+    chart = chart_fn(breakdown)
     return mo.vstack(
         [
             mo.md(f"### Collaboration patterns: {region_selector.value}"),
@@ -191,7 +205,7 @@ def collaboration_view(df, geography_selector, region_selector):
 
 
 @app.cell
-def discussion_prompts():
+def discussion_prompts(mo=mo):
     return mo.md(
         """
 ### Discussion prompts
