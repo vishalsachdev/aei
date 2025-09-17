@@ -133,16 +133,24 @@ def dataset_overview(df):
 
 @app.cell
 def geography_selector(df):
-    options = geography_options(df)
-    default = "country" if "country" in options else options[0]
-    return mo.ui.select(options=options, value=default, label="Geography level")
+    geo_options = geography_options(df)
+    geo_initial = "country" if "country" in geo_options else geo_options[0]
+    return mo.ui.select(
+        options=geo_options,
+        value=geo_initial,
+        label="Geography level",
+    )
 
 
 @app.cell
 def region_selector(df, geography_selector):
-    options = geo_id_options(df, geography_selector.value)
-    default = options[0] if options else "GLOBAL"
-    return mo.ui.select(options=options, value=default, label="Region focus")
+    region_options = geo_id_options(df, geography_selector.value)
+    region_initial = region_options[0] if region_options else "GLOBAL"
+    return mo.ui.select(
+        options=region_options,
+        value=region_initial,
+        label="Region focus",
+    )
 
 
 @app.cell
