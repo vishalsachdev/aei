@@ -1,10 +1,6 @@
-"""Interactive AEI explorer built with marimo.
+"""Interactive AEI explorer built with marimo."""
 
-The notebook loads packaged CSV assets (bundled via importlib.resources)
-so it can be exported to a self-contained WASM experience.
-"""
-
-import marimo
+import marimo as mo
 import pandas as pd
 import altair as alt
 
@@ -20,8 +16,6 @@ DATASETS = {
 
 @lru_cache
 def load_dataset(label: str) -> pd.DataFrame:
-    """Load a dataset by label from the packaged resources."""
-
     filename = DATASETS[label]
     with resources.files("aei_app.data").joinpath(filename).open("rb") as fh:
         return pd.read_csv(fh)
@@ -87,50 +81,39 @@ def collaboration_chart(data: pd.DataFrame) -> alt.Chart:
         .mark_bar()
         .encode(
             x=alt.X("Share %", title="Share of conversations (%)"),
-            y=alt.Y(
-                "Collaboration pattern",
-                sort="-x",
-                title="Pattern",
-            ),
+            y=alt.Y("Collaboration pattern", sort="-x", title="Pattern"),
             tooltip=["Collaboration pattern", alt.Tooltip("Share %", format=".2f")],
         )
         .properties(height=280)
     )
 
 
-app = marimo.App(width="full")
+app = mo.App(width="full")
 
 
 @app.cell
-def __():
-    import marimo as mo
-
-    yield mo.md("# Anthropic Economic Index Explorer")
-    return mo
+def title():
+    return mo.md("# Anthropic Economic Index Explorer")
 
 
 @app.cell
-def _(mo):
-    dataset_selector = mo.ui.radio(
+def dataset_selector():
+    selector = mo.ui.radio(
         options=list(DATASETS.keys()),
         value="Claude.ai usage",
         label="Select dataset",
     )
-
-    yield dataset_selector
-    return dataset_selector
+    return selector
 
 
 @app.cell
-def _(dataset_selector):
-    df = load_dataset(dataset_selector.value)
-
-    return df
+def df(dataset_selector):
+    return load_dataset(dataset_selector.value)
 
 
 @app.cell
-def _(df, mo):
-    overview = mo.vstack(
+def dataset_overview(df):
+    return mo.vstack(
         [
             mo.md("### Dataset overview"),
             mo.stat.value(label="Rows", value=f"{len(df):,}"),
@@ -147,52 +130,32 @@ def _(df, mo):
         gap="small",
     )
 
-    yield overview
-
 
 @app.cell
-def _(df, mo):
+def geography_selector(df):
     options = geography_options(df)
     default = "country" if "country" in options else options[0]
-    geography_selector = mo.ui.select(
-        options=options,
-        value=default,
-        label="Geography level",
-    )
-
-    yield geography_selector
-    return geography_selector
+    return mo.ui.select(options=options, value=default, label="Geography level")
 
 
 @app.cell
-def _(df, geography_selector, mo):
+def region_selector(df, geography_selector):
     options = geo_id_options(df, geography_selector.value)
     default = options[0] if options else "GLOBAL"
-    geo_selector = mo.ui.select(
-        options=options,
-        value=default,
-        label="Region focus",
-    )
-
-    yield geo_selector
-    return geo_selector
+    return mo.ui.select(options=options, value=default, label="Region focus")
 
 
 @app.cell
-def _(df, geography_selector, mo):
+def usage_view(df, geography_selector):
     summary_table = usage_summary(df, geography_selector.value)
-
-    summary_view = mo.vstack(
+    return mo.vstack(
         [
             mo.hstack(
                 [
                     mo.md("### Usage concentration"),
                     mo.md(
-                        """
-Use the controls above to explore adoption patterns. The table below
-shows the top regions by share of conversations for the selected
-geography level.
-"""
+                        "Use the controls above to explore adoption patterns."
+                        " The table shows top regions by share of conversations."
                     ),
                 ],
                 align="top",
@@ -202,31 +165,26 @@ geography level.
         ]
     )
 
-    yield summary_view
-
 
 @app.cell
-def _(df, geography_selector, geo_selector, mo):
+def collaboration_view(df, geography_selector, region_selector):
     breakdown = collaboration_breakdown(
-        df, geography_selector.value, geo_selector.value
+        df, geography_selector.value, region_selector.value
     )
     chart = collaboration_chart(breakdown)
-
-    collaboration_view = mo.vstack(
+    return mo.vstack(
         [
-            mo.md(f"### Collaboration patterns: {geo_selector.value}"),
+            mo.md(f"### Collaboration patterns: {region_selector.value}"),
             mo.ui.altair_chart(chart, key="collab-chart"),
             mo.ui.table(breakdown, max_height=280),
         ],
         gap="medium",
     )
 
-    yield collaboration_view
-
 
 @app.cell
-def _(mo):
-    discussion = mo.md(
+def discussion_prompts():
+    return mo.md(
         """
 ### Discussion prompts
 
@@ -235,8 +193,6 @@ def _(mo):
 - Compare two regions of interest: what collaboration pattern differences stand out and what workflows could they reflect?
 """
     )
-
-    yield discussion
 
 
 if __name__ == "__main__":
