@@ -98,7 +98,7 @@ def collaboration_chart(data: pd.DataFrame) -> alt.Chart:
     )
 
 
-app = mo.App(width="wide")
+app = mo.App(width="full")
 
 
 @app.cell
