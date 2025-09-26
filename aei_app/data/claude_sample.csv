@@ -1,0 +1,1000 @@
+geo_id,geography,date_start,date_end,platform_and_product,facet,level,variable,cluster_name,value
+AD,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_count,not_classified,25.0
+AD,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_pct,not_classified,62.5
+AD,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_count,task iteration,15.0
+AD,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_pct,task iteration,37.5
+AD,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,40.0
+AD,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.004147252341642353
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_count,directive,1200.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_pct,directive,39.85386914646297
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_count,feedback loop,349.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_pct,feedback loop,11.590833610096315
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_count,learning,504.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_pct,learning,16.738625041514446
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_count,none,75.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_pct,none,2.4908668216539356
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_count,task iteration,755.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_pct,task iteration,25.074726004649616
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_count,validation,128.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_pct,validation,4.251079375622717
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,3011.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.31218442001712815
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,analyze user needs and software requirements to determine feasibility of design within time and cost constraints.,26.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,analyze user needs and software requirements to determine feasibility of design within time and cost constraints.,0.8635004981733644
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,assist students who need extra help with their coursework outside of class.,24.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,assist students who need extra help with their coursework outside of class.,0.7970773829292593
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,"compile and write documentation of program development and subsequent revisions, inserting comments in the coded instructions so others can understand the program.",15.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,"compile and write documentation of program development and subsequent revisions, inserting comments in the coded instructions so others can understand the program.",0.49817336433078707
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,"conduct searches to find needed information, using such sources as the internet.",18.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,"conduct searches to find needed information, using such sources as the internet.",0.5978080371969445
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,confer with clients regarding the nature of the information processing or computation needs a computer program is to address.,23.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,confer with clients regarding the nature of the information processing or computation needs a computer program is to address.,0.7638658253072069
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,correct errors by making appropriate changes and rechecking the program to ensure that the desired results are produced.,72.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,correct errors by making appropriate changes and rechecking the program to ensure that the desired results are produced.,2.391232148787778
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,"design, build, or maintain web sites, using authoring or scripting languages, content creation tools, management tools, and digital media.",100.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,"design, build, or maintain web sites, using authoring or scripting languages, content creation tools, management tools, and digital media.",3.3211557622052474
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,"develop briefings, brochures, multimedia presentations, web pages, promotional products, technical illustrations, and computer artwork for use in products, technical manuals, literature, newsletters, and slide shows.",33.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,"develop briefings, brochures, multimedia presentations, web pages, promotional products, technical illustrations, and computer artwork for use in products, technical manuals, literature, newsletters, and slide shows.",1.0959814015277316
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,develop instructional materials to be used by educators and instructors.,20.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,develop instructional materials to be used by educators and instructors.,0.6642311524410495
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,"develop instructional materials, such as lesson plans, handouts, or examinations.",18.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,"develop instructional materials, such as lesson plans, handouts, or examinations.",0.5978080371969445
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,develop new software applications or customize existing applications to meet specific scientific project needs.,34.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,develop new software applications or customize existing applications to meet specific scientific project needs.,1.129192959149784
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,develop or apply data mining and machine learning algorithms.,18.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,develop or apply data mining and machine learning algorithms.,0.5978080371969445
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,"develop transactional web applications, using web programming software and knowledge of programming languages, such as hypertext markup language (html) and extensible markup language (xml).",15.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,"develop transactional web applications, using web programming software and knowledge of programming languages, such as hypertext markup language (html) and extensible markup language (xml).",0.49817336433078707
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,"diagnose, troubleshoot, and resolve hardware, software, or other network and system problems, and replace defective components when necessary.",90.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,"diagnose, troubleshoot, and resolve hardware, software, or other network and system problems, and replace defective components when necessary.",2.9890401859847224
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,"edit or rewrite existing copy as necessary, and submit copy for approval by supervisor.",41.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,"edit or rewrite existing copy as necessary, and submit copy for approval by supervisor.",1.3616738625041516
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,"edit, standardize, or make changes to material prepared by other writers or establishment personnel.",15.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,"edit, standardize, or make changes to material prepared by other writers or establishment personnel.",0.49817336433078707
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,"instruct individuals in career development techniques such as job search and application strategies, resume writing, and interview skills.",27.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,"instruct individuals in career development techniques such as job search and application strategies, resume writing, and interview skills.",0.8967120557954168
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,"instruct through lectures, discussions, and demonstrations in one or more subjects, such as english, mathematics, or social studies.",16.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,"instruct through lectures, discussions, and demonstrations in one or more subjects, such as english, mathematics, or social studies.",0.5313849219528396
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,modify existing programs to enhance efficiency.,16.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,modify existing programs to enhance efficiency.,0.5313849219528396
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,"modify existing software to correct errors, allow it to adapt to new hardware, or to improve its performance.",115.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,"modify existing software to correct errors, allow it to adapt to new hardware, or to improve its performance.",3.8193291265360343
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,"modify existing software to correct errors, to adapt it to new hardware, or to upgrade interfaces and improve performance.",91.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,"modify existing software to correct errors, to adapt it to new hardware, or to upgrade interfaces and improve performance.",3.022251743606775
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,none,108.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,none,3.586848223181667
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,not_classified,1624.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,not_classified,53.93556957821322
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,"perform initial debugging procedures by reviewing configuration files, logs, or code pieces to determine breakdown source.",31.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,"perform initial debugging procedures by reviewing configuration files, logs, or code pieces to determine breakdown source.",1.0295582862836268
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,"perform routine system administrative functions such as troubleshooting, back-ups, and upgrades.",47.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,"perform routine system administrative functions such as troubleshooting, back-ups, and upgrades.",1.5609432082364663
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,"prepare, rewrite and edit copy to improve readability, or supervise others who do this work.",42.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,"prepare, rewrite and edit copy to improve readability, or supervise others who do this work.",1.3948854201262038
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,"provide private instruction to individual or small groups of students to improve academic performance, improve occupational skills, or prepare for academic or occupational tests.",19.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,"provide private instruction to individual or small groups of students to improve academic performance, improve occupational skills, or prepare for academic or occupational tests.",0.631019594818997
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,provide professional consulting services to government or industry.,15.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,provide professional consulting services to government or industry.,0.49817336433078707
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,"review and analyze computer printouts and performance indicators to locate code problems, and correct errors by correcting codes.",31.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,"review and analyze computer printouts and performance indicators to locate code problems, and correct errors by correcting codes.",1.0295582862836268
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,"search electronic sources, such as databases or repositories, or manual sources for information.",15.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,"search electronic sources, such as databases or repositories, or manual sources for information.",0.49817336433078707
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,"troubleshoot problems involving office equipment, such as computer hardware and software.",15.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,"troubleshoot problems involving office equipment, such as computer hardware and software.",0.49817336433078707
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,"write new programs or modify existing programs to meet customer requirements, using current programming languages and technologies.",166.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,"write new programs or modify existing programs to meet customer requirements, using current programming languages and technologies.",5.513118565260711
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,write supporting code for web applications or web sites.,15.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,write supporting code for web applications or web sites.,0.49817336433078707
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,"write, analyze, review, and rewrite programs, using workflow chart and diagram, and applying knowledge of computer capabilities, subject matter, and symbolic logic.",16.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,"write, analyze, review, and rewrite programs, using workflow chart and diagram, and applying knowledge of computer capabilities, subject matter, and symbolic logic.",0.5313849219528396
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,"write, update, and maintain computer programs or software packages to handle specific jobs such as tracking inventory, storing or retrieving data, or controlling other equipment.",40.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,"write, update, and maintain computer programs or software packages to handle specific jobs such as tracking inventory, storing or retrieving data, or controlling other equipment.",1.328462304882099
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,Create comprehensive business documents and formal strategic reports,19.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,Create comprehensive business documents and formal strategic reports,0.631019594818997
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,Create comprehensive marketing materials and promotional content packages,17.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,Create comprehensive marketing materials and promotional content packages,0.564596479574892
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,"Create, modify, and improve business application dashboards and interfaces",16.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,"Create, modify, and improve business application dashboards and interfaces",0.5313849219528396
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,Debug and fix API integrations and third-party service connections,15.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,Debug and fix API integrations and third-party service connections,0.49817336433078707
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,Debug and fix errors in existing Python code,18.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,Debug and fix errors in existing Python code,0.5978080371969445
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,Debug and fix existing trading bot code and functionality,19.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,Debug and fix existing trading bot code and functionality,0.631019594818997
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,Develop automated trading systems and technical analysis strategies,32.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,Develop automated trading systems and technical analysis strategies,1.0627698439056792
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,Draft new emails and messages from scratch for various purposes,17.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,Draft new emails and messages from scratch for various purposes,0.564596479574892
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,Explain professional concepts and help create business deliverables,15.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,Explain professional concepts and help create business deliverables,0.49817336433078707
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,"Help create, improve, and customize resumes and CVs",28.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,"Help create, improve, and customize resumes and CVs",0.9299236134174693
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,Help research product prices and implement pricing systems,15.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,Help research product prices and implement pricing systems,0.49817336433078707
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,Help with Excel spreadsheet operations and programming tasks,17.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,Help with Excel spreadsheet operations and programming tasks,0.564596479574892
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,Provide AI business consulting and strategic development assistance,21.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,Provide AI business consulting and strategic development assistance,0.6974427100631019
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,Provide comprehensive blockchain and cryptocurrency technology assistance,18.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,Provide comprehensive blockchain and cryptocurrency technology assistance,0.5978080371969445
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,Provide cryptocurrency and financial trading advice and strategies,16.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,Provide cryptocurrency and financial trading advice and strategies,0.5313849219528396
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,Provide general investment advice and financial education guidance,17.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,Provide general investment advice and financial education guidance,0.564596479574892
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,Revise and improve existing professional email drafts,17.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,Revise and improve existing professional email drafts,0.564596479574892
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,"Translate text, documents, and multimedia content between languages",19.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,"Translate text, documents, and multimedia content between languages",0.631019594818997
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,"Write and improve resume content, bios, and professional profiles",16.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,"Write and improve resume content, bios, and professional profiles",0.5313849219528396
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,not_classified,2659.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,not_classified,88.30953171703753
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Assist with game development programming and general gaming support,29.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Assist with game development programming and general gaming support,0.9631351710395218
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,"Compare and analyze differences between concepts, items, or create assessments",19.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,"Compare and analyze differences between concepts, items, or create assessments",0.631019594818997
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,"Create and modify professional presentations, diagrams, and visual graphics",36.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,"Create and modify professional presentations, diagrams, and visual graphics",1.195616074393889
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Create comprehensive K-12 educational materials and teaching resources,30.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Create comprehensive K-12 educational materials and teaching resources,0.9963467286615741
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Create comprehensive business marketing and promotional content materials,47.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Create comprehensive business marketing and promotional content materials,1.5609432082364663
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Debug and fix software code errors across multiple programming languages,155.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Debug and fix software code errors across multiple programming languages,5.147791431418133
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Debug and fix web application errors and technical issues,31.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Debug and fix web application errors and technical issues,1.0295582862836268
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Design and improve web interface components and modern website layouts,40.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Design and improve web interface components and modern website layouts,1.328462304882099
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Develop AI-powered medical diagnostic and healthcare technology systems,18.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Develop AI-powered medical diagnostic and healthcare technology systems,0.5978080371969445
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Develop and customize AI chatbot systems and conversation styles,21.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Develop and customize AI chatbot systems and conversation styles,0.6974427100631019
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Develop automated trading systems and technical analysis strategies,32.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Develop automated trading systems and technical analysis strategies,1.0627698439056792
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Draft professional business communications and formal documents,69.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Draft professional business communications and formal documents,2.2915974759216207
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Edit and improve existing written content and documents,83.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Edit and improve existing written content and documents,2.7565592826303553
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Extract and analyze information from documents and text sources,20.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Extract and analyze information from documents and text sources,0.6642311524410495
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,"Fix and improve web and mobile application UI layouts, styling, and components",53.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,"Fix and improve web and mobile application UI layouts, styling, and components",1.7602125539687812
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Help build complete web applications and websites from scratch,44.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Help build complete web applications and websites from scratch,1.4613085353703088
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Help create and manage professional technical documentation and writing,30.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Help create and manage professional technical documentation and writing,0.9963467286615741
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Help create and optimize comprehensive digital marketing content and strategies,76.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Help create and optimize comprehensive digital marketing content and strategies,2.524078379275988
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Help develop business technology systems and e-commerce applications,16.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Help develop business technology systems and e-commerce applications,0.5313849219528396
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Help develop complete mobile applications with UI design and Flutter implementation,29.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Help develop complete mobile applications with UI design and Flutter implementation,0.9631351710395218
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,"Help develop, debug, and implement machine learning and AI systems",37.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,"Help develop, debug, and implement machine learning and AI systems",1.2288276320159415
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,"Help develop, debug, and modify web applications and frontend components",53.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,"Help develop, debug, and modify web applications and frontend components",1.7602125539687812
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Help discover and access entertainment content across multiple media platforms,17.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Help discover and access entertainment content across multiple media platforms,0.564596479574892
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Help optimize business workflows and project management systems,50.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Help optimize business workflows and project management systems,1.6605778811026237
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Help optimize system performance and troubleshoot technical infrastructure issues,19.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Help optimize system performance and troubleshoot technical infrastructure issues,0.631019594818997
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Help research and recommend consumer products across various categories for purchase decisions,39.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Help research and recommend consumer products across various categories for purchase decisions,1.2952507472600465
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Help set up and troubleshoot software development environments and tools,49.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Help set up and troubleshoot software development environments and tools,1.6273663234805713
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,"Help with API development, integration, and debugging",28.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,"Help with API development, integration, and debugging",0.9299236134174693
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,"Help with Docker containerization, deployment, and development workflows",17.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,"Help with Docker containerization, deployment, and development workflows",0.564596479574892
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Help with Linux system administration and server management tasks,28.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Help with Linux system administration and server management tasks,0.9299236134174693
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,"Help with academic research, writing, and educational content across multiple disciplines",59.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,"Help with academic research, writing, and educational content across multiple disciplines",1.959481899701096
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Help with comprehensive YouTube and TikTok video content creation and management,21.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Help with comprehensive YouTube and TikTok video content creation and management,0.6974427100631019
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,"Help with cross-platform mobile app development, debugging, and feature implementation",39.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,"Help with cross-platform mobile app development, debugging, and feature implementation",1.2952507472600465
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,"Help with data analysis, statistical modeling, and business reporting tasks",66.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,"Help with data analysis, statistical modeling, and business reporting tasks",2.191962803055463
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Help with financial technology systems and payment processing solutions,39.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Help with financial technology systems and payment processing solutions,1.2952507472600465
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,"Help with git, GitHub, and software version management",15.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,"Help with git, GitHub, and software version management",0.49817336433078707
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,"Help with job applications, resumes, and career documents",61.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,"Help with job applications, resumes, and career documents",2.025905014945201
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Help with visual design and graphics creation tasks,20.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Help with visual design and graphics creation tasks,0.6642311524410495
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Process and analyze visual media content including images and video files,32.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Process and analyze visual media content including images and video files,1.0627698439056792
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,"Proofread and correct grammar, spelling, and punctuation in documents",25.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,"Proofread and correct grammar, spelling, and punctuation in documents",0.8302889405513119
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Provide comprehensive blockchain and cryptocurrency technology assistance,18.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Provide comprehensive blockchain and cryptocurrency technology assistance,0.5978080371969445
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Provide comprehensive business consulting and strategic development assistance,75.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Provide comprehensive business consulting and strategic development assistance,2.4908668216539356
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Provide comprehensive cloud infrastructure and web hosting technical guidance,17.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Provide comprehensive cloud infrastructure and web hosting technical guidance,0.564596479574892
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,"Provide comprehensive cooking, nutrition, and meal planning assistance",28.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,"Provide comprehensive cooking, nutrition, and meal planning assistance",0.9299236134174693
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Provide comprehensive database development and management assistance,55.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Provide comprehensive database development and management assistance,1.8266356692128862
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Provide comprehensive financial advice and assistance across multiple domains,80.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Provide comprehensive financial advice and assistance across multiple domains,2.656924609764198
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Provide comprehensive home maintenance and household management advice,18.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Provide comprehensive home maintenance and household management advice,0.5978080371969445
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Provide comprehensive information about AI systems and their capabilities,44.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Provide comprehensive information about AI systems and their capabilities,1.4613085353703088
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Provide comprehensive job search and career advancement support,29.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Provide comprehensive job search and career advancement support,0.9631351710395218
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Provide comprehensive legal assistance and document drafting across multiple practice areas,41.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Provide comprehensive legal assistance and document drafting across multiple practice areas,1.3616738625041516
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Provide comprehensive medical and healthcare guidance across multiple specialties,50.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Provide comprehensive medical and healthcare guidance across multiple specialties,1.6605778811026237
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Provide comprehensive multi-technology programming development assistance and technical guidance,96.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Provide comprehensive multi-technology programming development assistance and technical guidance,3.1883095317170373
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Provide comprehensive personal finance management tools and advice,19.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Provide comprehensive personal finance management tools and advice,0.631019594818997
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Provide comprehensive personal style and beauty advice with product recommendations,15.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Provide comprehensive personal style and beauty advice with product recommendations,0.49817336433078707
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Provide comprehensive travel planning and booking assistance,29.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Provide comprehensive travel planning and booking assistance,0.9631351710395218
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Provide educational assistance and tutoring across multiple academic subjects and disciplines,59.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Provide educational assistance and tutoring across multiple academic subjects and disciplines,1.959481899701096
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Provide immigration and citizenship application guidance,15.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Provide immigration and citizenship application guidance,0.49817336433078707
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Provide personal relationship advice and life guidance support,32.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Provide personal relationship advice and life guidance support,1.0627698439056792
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,"Provide programming education, tutoring, and software development guidance",38.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,"Provide programming education, tutoring, and software development guidance",1.262039189637994
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Provide religious and spiritual education across diverse traditions and practices,17.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Provide religious and spiritual education across diverse traditions and practices,0.564596479574892
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,"Provide sports training advice, fitness guidance, and sports-related tools and analysis",19.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,"Provide sports training advice, fitness guidance, and sports-related tools and analysis",0.631019594818997
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Provide technical assistance and computational support for scientific research projects,20.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Provide technical assistance and computational support for scientific research projects,0.6642311524410495
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Provide technical support for networking and telecommunications system configuration,23.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Provide technical support for networking and telecommunications system configuration,0.7638658253072069
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,"Provide technical troubleshooting and support for software, hardware, and system issues",64.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,"Provide technical troubleshooting and support for software, hardware, and system issues",2.1255396878113584
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Provide technical troubleshooting support for hardware and equipment problems,24.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Provide technical troubleshooting support for hardware and equipment problems,0.7970773829292593
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Provide translation services and comprehensive language learning assistance across multiple languages,47.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Provide translation services and comprehensive language learning assistance across multiple languages,1.5609432082364663
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,not_classified,447.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,not_classified,14.845566257057454
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_count,"Analyze and process data from documents, visual media, and business sources",118.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_pct,"Analyze and process data from documents, visual media, and business sources",3.918963799402192
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_count,Assist with game development programming and mobile gaming projects,39.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_pct,Assist with game development programming and mobile gaming projects,1.2952507472600465
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_count,Create comprehensive K-12 educational materials and teaching resources,30.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_pct,Create comprehensive K-12 educational materials and teaching resources,0.9963467286615741
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_count,Create comprehensive digital marketing strategies and promotional content,123.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_pct,Create comprehensive digital marketing strategies and promotional content,4.085021587512454
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_count,"Help create visual content, graphics, and multimedia for digital platforms",94.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_pct,"Help create visual content, graphics, and multimedia for digital platforms",3.1218864164729325
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_count,Help develop and debug complete web applications and user interfaces,237.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_pct,Help develop and debug complete web applications and user interfaces,7.871139156426437
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_count,Help develop and debug cross-platform mobile applications with Flutter,68.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_pct,Help develop and debug cross-platform mobile applications with Flutter,2.258385918299568
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_count,"Help edit, improve, and create professional written documents and communications",222.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_pct,"Help edit, improve, and create professional written documents and communications",7.372965792095649
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_count,Help implement cybersecurity measures and secure authentication systems,37.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_pct,Help implement cybersecurity measures and secure authentication systems,1.2288276320159415
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_count,"Help plan and organize events, schedules, and travel arrangements",47.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_pct,"Help plan and organize events, schedules, and travel arrangements",1.5609432082364663
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_count,Help with Docker containerization and cloud infrastructure deployment,47.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_pct,Help with Docker containerization and cloud infrastructure deployment,1.5609432082364663
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_count,"Help with automation scripts, robotics programming, and workflow optimization tasks",79.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_pct,"Help with automation scripts, robotics programming, and workflow optimization tasks",2.6237130521421457
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_count,"Help with job applications, resumes, and career advancement",90.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_pct,"Help with job applications, resumes, and career advancement",2.9890401859847224
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_count,Provide business operations support and strategic consulting services,86.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_pct,Provide business operations support and strategic consulting services,2.856193955496513
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_count,Provide comprehensive domestic life and household management guidance,48.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_pct,Provide comprehensive domestic life and household management guidance,1.5941547658585187
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_count,Provide comprehensive financial guidance and investment assistance across multiple domains,181.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_pct,Provide comprehensive financial guidance and investment assistance across multiple domains,6.011291929591498
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_count,Provide comprehensive legal assistance including immigration and document services,56.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_pct,Provide comprehensive legal assistance including immigration and document services,1.8598472268349386
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_count,Provide comprehensive software development assistance across multiple programming domains and technologies,593.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_pct,Provide comprehensive software development assistance across multiple programming domains and technologies,19.694453669877117
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_count,Provide educational tutoring and academic assistance across multiple subjects and disciplines,196.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_pct,Provide educational tutoring and academic assistance across multiple subjects and disciplines,6.509465293922285
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_count,Provide medical and sports training guidance,69.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_pct,Provide medical and sports training guidance,2.2915974759216207
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_count,Provide multilingual translation services and language learning assistance,59.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_pct,Provide multilingual translation services and language learning assistance,1.959481899701096
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_count,"Provide personalized lifestyle advice and recommendations across relationships, spirituality, entertainment, beauty, and parenting",73.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_pct,"Provide personalized lifestyle advice and recommendations across relationships, spirituality, entertainment, beauty, and parenting",2.4244437064098308
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_count,Provide technical IT support and troubleshooting assistance,159.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_pct,Provide technical IT support and troubleshooting assistance,5.2806376619063435
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_count,Provide technical and academic assistance across scientific research and educational domains,86.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_pct,Provide technical and academic assistance across scientific research and educational domains,2.856193955496513
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_count,not_classified,174.0
+AE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_pct,not_classified,5.77881102623713
+AL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_count,directive,148.0
+AL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_pct,directive,40.0
+AL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_count,feedback loop,58.0
+AL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_pct,feedback loop,15.675675675675677
+AL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_count,learning,59.0
+AL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_pct,learning,15.945945945945947
+AL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_count,not_classified,4.0
+AL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_pct,not_classified,1.0810810810810811
+AL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_count,task iteration,82.0
+AL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_pct,task iteration,22.162162162162165
+AL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_count,validation,19.0
+AL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_pct,validation,5.135135135135135
+AL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,370.0
+AL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.03836208416019177
+AL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,correct errors by making appropriate changes and rechecking the program to ensure that the desired results are produced.,15.0
+AL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,correct errors by making appropriate changes and rechecking the program to ensure that the desired results are produced.,4.054054054054054
+AL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,"modify existing software to correct errors, allow it to adapt to new hardware, or to improve its performance.",34.0
+AL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,"modify existing software to correct errors, allow it to adapt to new hardware, or to improve its performance.",9.18918918918919
+AL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,"modify existing software to correct errors, to adapt it to new hardware, or to upgrade interfaces and improve performance.",18.0
+AL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,"modify existing software to correct errors, to adapt it to new hardware, or to upgrade interfaces and improve performance.",4.864864864864865
+AL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,none,15.0
+AL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,none,4.054054054054054
+AL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,not_classified,262.0
+AL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,not_classified,70.8108108108108
+AL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,"write new programs or modify existing programs to meet customer requirements, using current programming languages and technologies.",26.0
+AL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,"write new programs or modify existing programs to meet customer requirements, using current programming languages and technologies.",7.027027027027027
+AL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Debug and fix software code errors across multiple programming languages,20.0
+AL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Debug and fix software code errors across multiple programming languages,5.405405405405405
+AL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,"Fix and improve web and mobile application UI layouts, styling, and components",17.0
+AL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,"Fix and improve web and mobile application UI layouts, styling, and components",4.594594594594595
+AL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,"Help develop, debug, and modify web applications and frontend components",19.0
+AL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,"Help develop, debug, and modify web applications and frontend components",5.135135135135135
+AL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Provide comprehensive database development and management assistance,16.0
+AL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Provide comprehensive database development and management assistance,4.324324324324325
+AL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Provide comprehensive multi-technology programming development assistance and technical guidance,17.0
+AL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Provide comprehensive multi-technology programming development assistance and technical guidance,4.594594594594595
+AL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Provide translation services and comprehensive language learning assistance across multiple languages,19.0
+AL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Provide translation services and comprehensive language learning assistance across multiple languages,5.135135135135135
+AL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,not_classified,262.0
+AL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,not_classified,70.8108108108108
+AL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_count,Help develop and debug complete web applications and user interfaces,58.0
+AL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_pct,Help develop and debug complete web applications and user interfaces,15.675675675675677
+AL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_count,Provide comprehensive financial guidance and investment assistance across multiple domains,18.0
+AL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_pct,Provide comprehensive financial guidance and investment assistance across multiple domains,4.864864864864865
+AL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_count,Provide comprehensive software development assistance across multiple programming domains and technologies,82.0
+AL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_pct,Provide comprehensive software development assistance across multiple programming domains and technologies,22.162162162162165
+AL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_count,Provide educational tutoring and academic assistance across multiple subjects and disciplines,24.0
+AL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_pct,Provide educational tutoring and academic assistance across multiple subjects and disciplines,6.486486486486487
+AL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_count,Provide multilingual translation services and language learning assistance,19.0
+AL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_pct,Provide multilingual translation services and language learning assistance,5.135135135135135
+AL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_count,Provide technical IT support and troubleshooting assistance,19.0
+AL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_pct,Provide technical IT support and troubleshooting assistance,5.135135135135135
+AL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_count,not_classified,150.0
+AL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_pct,not_classified,40.54054054054054
+AM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_count,directive,315.0
+AM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_pct,directive,38.50855745721272
+AM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_count,feedback loop,81.0
+AM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_pct,feedback loop,9.902200488997554
+AM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_count,learning,109.0
+AM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_pct,learning,13.32518337408313
+AM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_count,none,121.0
+AM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_pct,none,14.792176039119804
+AM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_count,task iteration,158.0
+AM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_pct,task iteration,19.315403422982886
+AM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_count,validation,34.0
+AM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_pct,validation,4.156479217603912
+AM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,818.0
+AM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.08481131038658613
+AM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,correct errors by making appropriate changes and rechecking the program to ensure that the desired results are produced.,18.0
+AM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,correct errors by making appropriate changes and rechecking the program to ensure that the desired results are produced.,2.2004889975550124
+AM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,"modify existing software to correct errors, allow it to adapt to new hardware, or to improve its performance.",33.0
+AM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,"modify existing software to correct errors, allow it to adapt to new hardware, or to improve its performance.",4.034229828850855
+AM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,"modify existing software to correct errors, to adapt it to new hardware, or to upgrade interfaces and improve performance.",17.0
+AM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,"modify existing software to correct errors, to adapt it to new hardware, or to upgrade interfaces and improve performance.",2.078239608801956
+AM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,none,57.0
+AM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,none,6.968215158924205
+AM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,not_classified,632.0
+AM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,not_classified,77.26161369193154
+AM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,"write new programs or modify existing programs to meet customer requirements, using current programming languages and technologies.",43.0
+AM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,"write new programs or modify existing programs to meet customer requirements, using current programming languages and technologies.",5.256723716381418
+AM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,"write, design, or edit web page content, or direct others producing content.",18.0
+AM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,"write, design, or edit web page content, or direct others producing content.",2.2004889975550124
+AM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,Help with social media platform operations and data analysis,56.0
+AM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,Help with social media platform operations and data analysis,6.845965770171149
+AM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,Provide comprehensive blockchain and cryptocurrency technology assistance,137.0
+AM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,Provide comprehensive blockchain and cryptocurrency technology assistance,16.748166259168702
+AM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,not_classified,625.0
+AM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,not_classified,76.40586797066014
+AM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Debug and fix software code errors across multiple programming languages,31.0
+AM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Debug and fix software code errors across multiple programming languages,3.7897310513447433
+AM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Edit and improve existing written content and documents,17.0
+AM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Edit and improve existing written content and documents,2.078239608801956
+AM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,"Fix and improve web and mobile application UI layouts, styling, and components",19.0
+AM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,"Fix and improve web and mobile application UI layouts, styling, and components",2.3227383863080684
+AM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Help create and optimize comprehensive digital marketing content and strategies,78.0
+AM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Help create and optimize comprehensive digital marketing content and strategies,9.535452322738386
+AM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Provide comprehensive blockchain and cryptocurrency technology assistance,137.0
+AM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Provide comprehensive blockchain and cryptocurrency technology assistance,16.748166259168702
+AM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Provide comprehensive database development and management assistance,23.0
+AM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Provide comprehensive database development and management assistance,2.8117359413202934
+AM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Provide comprehensive financial advice and assistance across multiple domains,21.0
+AM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Provide comprehensive financial advice and assistance across multiple domains,2.567237163814181
+AM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Provide comprehensive medical and healthcare guidance across multiple specialties,16.0
+AM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Provide comprehensive medical and healthcare guidance across multiple specialties,1.9559902200488997
+AM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Provide comprehensive multi-technology programming development assistance and technical guidance,37.0
+AM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Provide comprehensive multi-technology programming development assistance and technical guidance,4.52322738386308
+AM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,"Provide programming education, tutoring, and software development guidance",15.0
+AM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,"Provide programming education, tutoring, and software development guidance",1.8337408312958436
+AM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Provide translation services and comprehensive language learning assistance across multiple languages,24.0
+AM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Provide translation services and comprehensive language learning assistance across multiple languages,2.93398533007335
+AM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,not_classified,400.0
+AM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,not_classified,48.899755501222494
+AM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_count,"Analyze and process data from documents, visual media, and business sources",22.0
+AM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_pct,"Analyze and process data from documents, visual media, and business sources",2.689486552567237
+AM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_count,Create comprehensive digital marketing strategies and promotional content,87.0
+AM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_pct,Create comprehensive digital marketing strategies and promotional content,10.635696821515893
+AM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_count,Help develop and debug complete web applications and user interfaces,58.0
+AM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_pct,Help develop and debug complete web applications and user interfaces,7.090464547677261
+AM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_count,"Help edit, improve, and create professional written documents and communications",41.0
+AM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_pct,"Help edit, improve, and create professional written documents and communications",5.012224938875306
+AM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_count,Provide comprehensive financial guidance and investment assistance across multiple domains,30.0
+AM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_pct,Provide comprehensive financial guidance and investment assistance across multiple domains,3.6674816625916873
+AM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_count,Provide comprehensive software development assistance across multiple programming domains and technologies,278.0
+AM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_pct,Provide comprehensive software development assistance across multiple programming domains and technologies,33.98533007334964
+AM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_count,Provide educational tutoring and academic assistance across multiple subjects and disciplines,40.0
+AM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_pct,Provide educational tutoring and academic assistance across multiple subjects and disciplines,4.88997555012225
+AM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_count,Provide medical and sports training guidance,20.0
+AM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_pct,Provide medical and sports training guidance,2.444987775061125
+AM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_count,Provide multilingual translation services and language learning assistance,31.0
+AM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_pct,Provide multilingual translation services and language learning assistance,3.7897310513447433
+AM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_count,"Provide personalized lifestyle advice and recommendations across relationships, spirituality, entertainment, beauty, and parenting",15.0
+AM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_pct,"Provide personalized lifestyle advice and recommendations across relationships, spirituality, entertainment, beauty, and parenting",1.8337408312958436
+AM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_count,Provide technical IT support and troubleshooting assistance,39.0
+AM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_pct,Provide technical IT support and troubleshooting assistance,4.767726161369193
+AM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_count,Provide technical and academic assistance across scientific research and educational domains,19.0
+AM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_pct,Provide technical and academic assistance across scientific research and educational domains,2.3227383863080684
+AM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_count,not_classified,138.0
+AM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_pct,not_classified,16.87041564792176
+AO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_count,directive,113.0
+AO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_pct,directive,47.47899159663865
+AO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_count,feedback loop,18.0
+AO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_pct,feedback loop,7.563025210084033
+AO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_count,learning,44.0
+AO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_pct,learning,18.487394957983195
+AO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_count,not_classified,17.0
+AO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_pct,not_classified,7.142857142857142
+AO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_count,task iteration,46.0
+AO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_pct,task iteration,19.327731092436977
+AO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,238.0
+AO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.024676151432772003
+AO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,"modify existing software to correct errors, allow it to adapt to new hardware, or to improve its performance.",17.0
+AO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,"modify existing software to correct errors, allow it to adapt to new hardware, or to improve its performance.",7.142857142857142
+AO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,not_classified,197.0
+AO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,not_classified,82.77310924369748
+AO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,"write new programs or modify existing programs to meet customer requirements, using current programming languages and technologies.",24.0
+AO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,"write new programs or modify existing programs to meet customer requirements, using current programming languages and technologies.",10.084033613445378
+AO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_count,Help develop and debug complete web applications and user interfaces,38.0
+AO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_pct,Help develop and debug complete web applications and user interfaces,15.966386554621847
+AO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_count,"Help edit, improve, and create professional written documents and communications",21.0
+AO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_pct,"Help edit, improve, and create professional written documents and communications",8.823529411764707
+AO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_count,Provide comprehensive software development assistance across multiple programming domains and technologies,31.0
+AO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_pct,Provide comprehensive software development assistance across multiple programming domains and technologies,13.025210084033615
+AO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_count,Provide educational tutoring and academic assistance across multiple subjects and disciplines,24.0
+AO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_pct,Provide educational tutoring and academic assistance across multiple subjects and disciplines,10.084033613445378
+AO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_count,not_classified,124.0
+AO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_pct,not_classified,52.10084033613446
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_count,directive,2514.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_pct,directive,40.75875486381323
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_count,feedback loop,776.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_pct,feedback loop,12.5810635538262
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_count,learning,1232.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_pct,learning,19.974059662775616
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_count,none,122.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_pct,none,1.9779507133592735
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_count,task iteration,1273.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_pct,task iteration,20.638780804150453
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_count,validation,251.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),collaboration,0,collaboration_pct,validation,4.069390402075227
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,6168.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.6395063110812509
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,analyze user needs and software requirements to determine feasibility of design within time and cost constraints.,54.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,analyze user needs and software requirements to determine feasibility of design within time and cost constraints.,0.8754863813229572
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,"answer customers' questions about products, prices, availability, or credit terms.",15.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,"answer customers' questions about products, prices, availability, or credit terms.",0.24319066147859922
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,assess the usefulness of pre-developed application packages and adapt them to a user environment.,29.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,assess the usefulness of pre-developed application packages and adapt them to a user environment.,0.4701686121919585
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,assist students who need extra help with their coursework outside of class.,90.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,assist students who need extra help with their coursework outside of class.,1.4591439688715953
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,"compile and write documentation of program development and subsequent revisions, inserting comments in the coded instructions so others can understand the program.",39.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,"compile and write documentation of program development and subsequent revisions, inserting comments in the coded instructions so others can understand the program.",0.632295719844358
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,"conduct classes, workshops, and demonstrations to teach principles, techniques, or methods in subjects, such as basic english language skills, life skills, and workforce entry skills.",27.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,"conduct classes, workshops, and demonstrations to teach principles, techniques, or methods in subjects, such as basic english language skills, life skills, and workforce entry skills.",0.4377431906614786
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,"conduct classes, workshops, and demonstrations, and provide individual instruction to teach topics and skills such as cooking, dancing, writing, physical fitness, photography, personal finance, and flying.",24.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,"conduct classes, workshops, and demonstrations, and provide individual instruction to teach topics and skills such as cooking, dancing, writing, physical fitness, photography, personal finance, and flying.",0.38910505836575876
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,"conduct logical analyses of business, scientific, engineering, and other technical problems, formulating mathematical models of problems for solution by computers.",18.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,"conduct logical analyses of business, scientific, engineering, and other technical problems, formulating mathematical models of problems for solution by computers.",0.2918287937743191
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,"conduct searches to find needed information, using such sources as the internet.",18.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,"conduct searches to find needed information, using such sources as the internet.",0.2918287937743191
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,confer with clients regarding the nature of the information processing or computation needs a computer program is to address.,49.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,confer with clients regarding the nature of the information processing or computation needs a computer program is to address.,0.7944228274967574
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,consult with multiple stakeholders to define requirements and implement online features.,21.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,consult with multiple stakeholders to define requirements and implement online features.,0.3404669260700389
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,correct errors by making appropriate changes and rechecking the program to ensure that the desired results are produced.,129.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,correct errors by making appropriate changes and rechecking the program to ensure that the desired results are produced.,2.091439688715953
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,"design, build, or maintain web sites, using authoring or scripting languages, content creation tools, management tools, and digital media.",147.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,"design, build, or maintain web sites, using authoring or scripting languages, content creation tools, management tools, and digital media.",2.3832684824902723
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,"design, develop and modify software systems, using scientific analysis and mathematical models to predict and measure outcome and consequences of design.",16.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,"design, develop and modify software systems, using scientific analysis and mathematical models to predict and measure outcome and consequences of design.",0.25940337224383914
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,"determine sources of web page or server problems, and take action to correct such problems.",28.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,"determine sources of web page or server problems, and take action to correct such problems.",0.4539559014267186
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,"develop briefings, brochures, multimedia presentations, web pages, promotional products, technical illustrations, and computer artwork for use in products, technical manuals, literature, newsletters, and slide shows.",37.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,"develop briefings, brochures, multimedia presentations, web pages, promotional products, technical illustrations, and computer artwork for use in products, technical manuals, literature, newsletters, and slide shows.",0.5998702983138782
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,"develop factors such as themes, plots, characterizations, psychological analyses, historical environments, action, and dialogue, to create material.",18.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,"develop factors such as themes, plots, characterizations, psychological analyses, historical environments, action, and dialogue, to create material.",0.2918287937743191
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,develop instructional materials to be used by educators and instructors.,62.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,develop instructional materials to be used by educators and instructors.,1.0051880674448768
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,"develop instructional materials, such as lesson plans, handouts, or examinations.",62.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,"develop instructional materials, such as lesson plans, handouts, or examinations.",1.0051880674448768
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,develop new software applications or customize existing applications to meet specific scientific project needs.,39.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,develop new software applications or customize existing applications to meet specific scientific project needs.,0.632295719844358
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,"develop teaching materials, such as syllabi, visual aids, answer keys, supplementary notes, or course web sites.",16.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,"develop teaching materials, such as syllabi, visual aids, answer keys, supplementary notes, or course web sites.",0.25940337224383914
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,"develop transactional web applications, using web programming software and knowledge of programming languages, such as hypertext markup language (html) and extensible markup language (xml).",23.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,"develop transactional web applications, using web programming software and knowledge of programming languages, such as hypertext markup language (html) and extensible markup language (xml).",0.3728923476005188
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,"diagnose, troubleshoot, and resolve hardware, software, or other network and system problems, and replace defective components when necessary.",172.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,"diagnose, troubleshoot, and resolve hardware, software, or other network and system problems, and replace defective components when necessary.",2.7885862516212714
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,"edit or rewrite existing copy as necessary, and submit copy for approval by supervisor.",24.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,"edit or rewrite existing copy as necessary, and submit copy for approval by supervisor.",0.38910505836575876
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,"edit, standardize, or make changes to material prepared by other writers or establishment personnel.",43.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,"edit, standardize, or make changes to material prepared by other writers or establishment personnel.",0.6971465629053178
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,help programmers and systems analysts test and debug new programs.,22.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,help programmers and systems analysts test and debug new programs.,0.35667963683527887
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,"instruct individuals in career development techniques such as job search and application strategies, resume writing, and interview skills.",30.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,"instruct individuals in career development techniques such as job search and application strategies, resume writing, and interview skills.",0.48638132295719844
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,"instruct students in the knowledge and skills required in a specific occupation or occupational field, using a systematic plan of lectures, discussions, audio-visual presentations, and laboratory, shop and field studies.",16.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,"instruct students in the knowledge and skills required in a specific occupation or occupational field, using a systematic plan of lectures, discussions, audio-visual presentations, and laboratory, shop and field studies.",0.25940337224383914
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,"instruct through lectures, discussions, and demonstrations in one or more subjects, such as english, mathematics, or social studies.",78.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,"instruct through lectures, discussions, and demonstrations in one or more subjects, such as english, mathematics, or social studies.",1.264591439688716
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,modify existing databases and database management systems or direct programmers and analysts to make changes.,26.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,modify existing databases and database management systems or direct programmers and analysts to make changes.,0.42153047989623865
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,modify existing programs to enhance efficiency.,47.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,modify existing programs to enhance efficiency.,0.7619974059662775
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,"modify existing software to correct errors, allow it to adapt to new hardware, or to improve its performance.",286.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,"modify existing software to correct errors, allow it to adapt to new hardware, or to improve its performance.",4.636835278858626
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,"modify existing software to correct errors, to adapt it to new hardware, or to upgrade interfaces and improve performance.",212.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,"modify existing software to correct errors, to adapt it to new hardware, or to upgrade interfaces and improve performance.",3.4370946822308692
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,"monitor database performance and perform any necessary maintenance, upgrades, or repairs.",23.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,"monitor database performance and perform any necessary maintenance, upgrades, or repairs.",0.3728923476005188
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,none,382.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,none,6.19325551232166
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,not_classified,2359.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,not_classified,38.24578469520104
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,"organize information for publication and for other means of dissemination, such as use in cd-roms or internet sites.",16.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,"organize information for publication and for other means of dissemination, such as use in cd-roms or internet sites.",0.25940337224383914
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,"organize material and complete writing assignment according to set standards regarding order, clarity, conciseness, style, and terminology.",15.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,"organize material and complete writing assignment according to set standards regarding order, clarity, conciseness, style, and terminology.",0.24319066147859922
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,"perform initial debugging procedures by reviewing configuration files, logs, or code pieces to determine breakdown source.",64.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,"perform initial debugging procedures by reviewing configuration files, logs, or code pieces to determine breakdown source.",1.0376134889753565
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,"perform or direct revision, repair, or expansion of existing programs to increase operating efficiency or adapt to new requirements.",15.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,"perform or direct revision, repair, or expansion of existing programs to increase operating efficiency or adapt to new requirements.",0.24319066147859922
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,"perform routine system administrative functions such as troubleshooting, back-ups, and upgrades.",103.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,"perform routine system administrative functions such as troubleshooting, back-ups, and upgrades.",1.6699092088197147
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,prepare and deliver lectures to undergraduate or graduate students on topics such as how to speak and write a foreign language and the cultural aspects of areas where a particular language is used.,52.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,prepare and deliver lectures to undergraduate or graduate students on topics such as how to speak and write a foreign language and the cultural aspects of areas where a particular language is used.,0.8430609597924773
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,"prepare, rewrite and edit copy to improve readability, or supervise others who do this work.",50.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,"prepare, rewrite and edit copy to improve readability, or supervise others who do this work.",0.8106355382619975
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,"process and prepare documents, such as business or government forms and expense reports.",19.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,"process and prepare documents, such as business or government forms and expense reports.",0.30804150453955903
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,"provide private instruction to individual or small groups of students to improve academic performance, improve occupational skills, or prepare for academic or occupational tests.",87.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,"provide private instruction to individual or small groups of students to improve academic performance, improve occupational skills, or prepare for academic or occupational tests.",1.4105058365758756
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,provide professional consulting services to government or industry.,19.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,provide professional consulting services to government or industry.,0.30804150453955903
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,provide technical guidance or support for the development or troubleshooting of systems.,21.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,provide technical guidance or support for the development or troubleshooting of systems.,0.3404669260700389
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,"read written materials, such as legal documents, scientific works, or news reports, and rewrite material into specified languages.",68.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,"read written materials, such as legal documents, scientific works, or news reports, and rewrite material into specified languages.",1.1024643320363166
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,"reformat documents, moving paragraphs or columns.",121.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,"reformat documents, moving paragraphs or columns.",1.9617380025940336
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,"review and analyze computer printouts and performance indicators to locate code problems, and correct errors by correcting codes.",52.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,"review and analyze computer printouts and performance indicators to locate code problems, and correct errors by correcting codes.",0.8430609597924773
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,"review class material with students by discussing text, working solutions to problems, or reviewing worksheets or other assignments.",35.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,"review class material with students by discussing text, working solutions to problems, or reviewing worksheets or other assignments.",0.5674448767833982
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,"search electronic sources, such as databases or repositories, or manual sources for information.",28.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,"search electronic sources, such as databases or repositories, or manual sources for information.",0.4539559014267186
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,"select and edit documents for publication and display, applying knowledge of subject, literary expression, and presentation techniques.",17.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,"select and edit documents for publication and display, applying knowledge of subject, literary expression, and presentation techniques.",0.27561608300907914
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,"store, retrieve, and manipulate data for analysis of system capabilities and requirements.",20.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,"store, retrieve, and manipulate data for analysis of system capabilities and requirements.",0.324254215304799
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,"test programs or databases, correct errors, and make necessary modifications.",29.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,"test programs or databases, correct errors, and make necessary modifications.",0.4701686121919585
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,"troubleshoot problems involving office equipment, such as computer hardware and software.",64.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,"troubleshoot problems involving office equipment, such as computer hardware and software.",1.0376134889753565
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,"use computers for various applications, such as database management or word processing.",72.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,"use computers for various applications, such as database management or word processing.",1.1673151750972763
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,"write new programs or modify existing programs to meet customer requirements, using current programming languages and technologies.",343.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,"write new programs or modify existing programs to meet customer requirements, using current programming languages and technologies.",5.560959792477302
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,"write original or adapted material for dramas, comedies, puppet shows, narration, or other performances.",16.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,"write original or adapted material for dramas, comedies, puppet shows, narration, or other performances.",0.25940337224383914
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,write supporting code for web applications or web sites.,28.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,write supporting code for web applications or web sites.,0.4539559014267186
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,"write, analyze, review, and rewrite programs, using workflow chart and diagram, and applying knowledge of computer capabilities, subject matter, and symbolic logic.",42.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,"write, analyze, review, and rewrite programs, using workflow chart and diagram, and applying knowledge of computer capabilities, subject matter, and symbolic logic.",0.6809338521400778
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_count,"write, update, and maintain computer programs or software packages to handle specific jobs such as tracking inventory, storing or retrieving data, or controlling other equipment.",91.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),onet_task,0,onet_task_pct,"write, update, and maintain computer programs or software packages to handle specific jobs such as tracking inventory, storing or retrieving data, or controlling other equipment.",1.4753566796368351
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,Analyze and critique existing literary works and texts,15.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,Analyze and critique existing literary works and texts,0.24319066147859922
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,Build and develop AI chatbot systems and conversational applications,22.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,Build and develop AI chatbot systems and conversational applications,0.35667963683527887
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,Build healthcare technology applications and digital medical systems,15.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,Build healthcare technology applications and digital medical systems,0.24319066147859922
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,Create and develop complete games and game development projects,32.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,Create and develop complete games and game development projects,0.5188067444876783
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,Create and optimize Instagram content and automation tools,15.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,Create and optimize Instagram content and automation tools,0.24319066147859922
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,Create and optimize social media posts and marketing content,22.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,Create and optimize social media posts and marketing content,0.35667963683527887
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,Create comprehensive business documents and formal strategic reports,17.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,Create comprehensive business documents and formal strategic reports,0.27561608300907914
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,Create comprehensive marketing materials and promotional content packages,25.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,Create comprehensive marketing materials and promotional content packages,0.40531776913099876
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,Create detailed lesson plans and educational materials for K-12 classrooms,17.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,Create detailed lesson plans and educational materials for K-12 classrooms,0.27561608300907914
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,Create personalized workout plans and fitness tracking applications,16.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,Create personalized workout plans and fitness tracking applications,0.25940337224383914
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,Create specific data visualizations and charts using programming code,15.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,Create specific data visualizations and charts using programming code,0.24319066147859922
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,Create work scheduling systems and attendance management applications,15.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,Create work scheduling systems and attendance management applications,0.24319066147859922
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,"Create, modify, and improve business application dashboards and interfaces",18.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,"Create, modify, and improve business application dashboards and interfaces",0.2918287937743191
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,Debug and fix API integrations and third-party service connections,34.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,Debug and fix API integrations and third-party service connections,0.5512321660181583
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,Debug and fix JavaScript syntax and runtime errors,24.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,Debug and fix JavaScript syntax and runtime errors,0.38910505836575876
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,Debug and fix errors in existing Python code,25.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,Debug and fix errors in existing Python code,0.40531776913099876
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,Debug and fix errors in existing React applications,30.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,Debug and fix errors in existing React applications,0.48638132295719844
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,Debug and fix existing trading bot code and functionality,18.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,Debug and fix existing trading bot code and functionality,0.2918287937743191
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,Debug and fix payment processing and financial system technical issues,15.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,Debug and fix payment processing and financial system technical issues,0.24319066147859922
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,Debug and fix software bugs in existing applications,22.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,Debug and fix software bugs in existing applications,0.35667963683527887
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,Debug and fix web development errors and technical issues,20.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,Debug and fix web development errors and technical issues,0.324254215304799
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,Debug data processing and business application errors,19.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,Debug data processing and business application errors,0.30804150453955903
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,Design and implement enterprise ERP and CRM business management systems,16.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,Design and implement enterprise ERP and CRM business management systems,0.25940337224383914
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,Develop automated trading systems and technical analysis strategies,27.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,Develop automated trading systems and technical analysis strategies,0.4377431906614786
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,Develop comprehensive social media marketing strategies and content,23.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,Develop comprehensive social media marketing strategies and content,0.3728923476005188
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,Draft judicial decisions and court rulings as a judge,16.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,Draft judicial decisions and court rulings as a judge,0.25940337224383914
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,Explain AI system capabilities and provide technical guidance,23.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,Explain AI system capabilities and provide technical guidance,0.3728923476005188
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,Explain philosophical concepts and engage in philosophical discussions,25.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,Explain philosophical concepts and engage in philosophical discussions,0.40531776913099876
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,Explain professional concepts and help create business deliverables,18.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,Explain professional concepts and help create business deliverables,0.2918287937743191
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,"Explain programming concepts, syntax, and code functionality",16.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,"Explain programming concepts, syntax, and code functionality",0.25940337224383914
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,"Explain the meaning of specific terms, acronyms, and concepts",24.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,"Explain the meaning of specific terms, acronyms, and concepts",0.38910505836575876
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,Fix HTML CSS JavaScript layout styling and responsiveness issues,31.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,Fix HTML CSS JavaScript layout styling and responsiveness issues,0.5025940337224384
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,Fix TypeScript compilation errors and type-related issues,23.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,Fix TypeScript compilation errors and type-related issues,0.3728923476005188
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,Fix and debug system administration shell scripts and automation tools,18.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,Fix and debug system administration shell scripts and automation tools,0.2918287937743191
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,Fix and improve existing websites and web applications,16.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,Fix and improve existing websites and web applications,0.25940337224383914
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,Fix and improve video game development code and features,24.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,Fix and improve video game development code and features,0.38910505836575876
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,Help create and manage invoice and billing systems,16.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,Help create and manage invoice and billing systems,0.25940337224383914
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,Help create and plan video content and AI generation prompts,16.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,Help create and plan video content and AI generation prompts,0.25940337224383914
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,Help create grammar exercises and explain grammatical concepts,18.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,Help create grammar exercises and explain grammatical concepts,0.2918287937743191
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,"Help create, improve, and customize resumes and CVs",17.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,"Help create, improve, and customize resumes and CVs",0.27561608300907914
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,Help debug and develop Django web applications,20.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,Help debug and develop Django web applications,0.324254215304799
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,Help develop and integrate messaging applications and chat systems,24.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,Help develop and integrate messaging applications and chat systems,0.38910505836575876
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,Help develop and troubleshoot email system functionality and integrations,21.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,Help develop and troubleshoot email system functionality and integrations,0.3404669260700389
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,Help me understand and use AI image generation capabilities,22.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,Help me understand and use AI image generation capabilities,0.35667963683527887
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,Help modify and troubleshoot CSS styling code for existing websites,20.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,Help modify and troubleshoot CSS styling code for existing websites,0.324254215304799
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,Help modify colors and visual themes in web and mobile applications,20.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,Help modify colors and visual themes in web and mobile applications,0.324254215304799
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,Help modify database schemas and SQL scripts for table structure changes,16.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,Help modify database schemas and SQL scripts for table structure changes,0.25940337224383914
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,"Help process, convert, and manipulate CSV files and data",15.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,"Help process, convert, and manipulate CSV files and data",0.24319066147859922
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,Help troubleshoot compilation errors and development environment issues,19.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,Help troubleshoot compilation errors and development environment issues,0.30804150453955903
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,Help troubleshoot git operations and GitHub repository management,22.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,Help troubleshoot git operations and GitHub repository management,0.35667963683527887
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,"Help with API development, implementation, integration, and usage",22.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,"Help with API development, implementation, integration, and usage",0.35667963683527887
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,Help with Angular application development and troubleshooting,16.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,Help with Angular application development and troubleshooting,0.25940337224383914
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,Help with Docker development workflows and containerization setups,17.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,Help with Docker development workflows and containerization setups,0.27561608300907914
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,Help with Excel spreadsheet operations and programming tasks,28.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,Help with Excel spreadsheet operations and programming tasks,0.4539559014267186
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,Help with Linux system administration and configuration tasks,15.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,Help with Linux system administration and configuration tasks,0.24319066147859922
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,"Help with PDF file processing, coding, and document operations",33.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,"Help with PDF file processing, coding, and document operations",0.5350194552529183
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,"Help with calendar management, event scheduling, and meeting organization",18.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,"Help with calendar management, event scheduling, and meeting organization",0.2918287937743191
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,Help with comprehensive Java programming development and learning tasks,15.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,Help with comprehensive Java programming development and learning tasks,0.24319066147859922
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,"Help with database design, architecture, implementation, and management",19.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,"Help with database design, architecture, implementation, and management",0.30804150453955903
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,Help with database migration tasks and resolving migration errors,17.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,Help with database migration tasks and resolving migration errors,0.27561608300907914
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,Help with general PHP programming tasks and troubleshooting,23.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,Help with general PHP programming tasks and troubleshooting,0.3728923476005188
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,"Help with music discovery, creation, production, and industry tasks",16.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,"Help with music discovery, creation, production, and industry tasks",0.25940337224383914
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,Help with payment processing systems and credit card services,20.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,Help with payment processing systems and credit card services,0.324254215304799
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,Help with social media platform operations and data analysis,21.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,Help with social media platform operations and data analysis,0.3404669260700389
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,Help with software development workflow and project maintenance tasks,16.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,Help with software development workflow and project maintenance tasks,0.25940337224383914
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,"Help with traditional card, board, gambling and puzzle games",16.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,"Help with traditional card, board, gambling and puzzle games",0.25940337224383914
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,Help with workflow automation platform setup and configuration,19.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,Help with workflow automation platform setup and configuration,0.30804150453955903
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,Help write and modify specific SQL queries for data retrieval and analysis,18.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,Help write and modify specific SQL queries for data retrieval and analysis,0.2918287937743191
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,Interpret personal medical test results and explain health conditions,17.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,Interpret personal medical test results and explain health conditions,0.27561608300907914
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,Modify and fix existing HTML files and code structures,21.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,Modify and fix existing HTML files and code structures,0.3404669260700389
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,"Provide JavaScript programming education, explanations, and code analysis",16.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,"Provide JavaScript programming education, explanations, and code analysis",0.25940337224383914
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,Provide K-12 teaching and school administration support materials,15.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,Provide K-12 teaching and school administration support materials,0.24319066147859922
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,Provide Spanish translation and language assistance services,83.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,Provide Spanish translation and language assistance services,1.3456549935149158
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,"Provide book information, recommendations, and reading management tools",17.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,"Provide book information, recommendations, and reading management tools",0.27561608300907914
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,Provide comprehensive business strategy and startup development guidance,16.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,Provide comprehensive business strategy and startup development guidance,0.25940337224383914
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,Provide comprehensive creative writing feedback and development assistance,17.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,Provide comprehensive creative writing feedback and development assistance,0.27561608300907914
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,Provide comprehensive foreign language learning instruction and guidance,21.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,Provide comprehensive foreign language learning instruction and guidance,0.3404669260700389
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,Provide cryptocurrency and financial trading advice and strategies,18.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,Provide cryptocurrency and financial trading advice and strategies,0.2918287937743191
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,Provide economics education and concept explanations,16.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,Provide economics education and concept explanations,0.25940337224383914
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,Provide general investment advice and financial education guidance,19.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,Provide general investment advice and financial education guidance,0.30804150453955903
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,Provide general sports information and develop sports management tools,18.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,Provide general sports information and develop sports management tools,0.2918287937743191
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,Provide guidance on AI coding tools and setup assistance,15.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,Provide guidance on AI coding tools and setup assistance,0.24319066147859922
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,Provide information and advice about dietary supplements and vitamins,19.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,Provide information and advice about dietary supplements and vitamins,0.30804150453955903
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,Provide information and analysis about political systems and governance,17.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,Provide information and analysis about political systems and governance,0.27561608300907914
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,"Provide legal information, analysis, and educational assistance",22.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,"Provide legal information, analysis, and educational assistance",0.35667963683527887
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,Provide medical guidance for musculoskeletal injuries and joint pain,16.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,Provide medical guidance for musculoskeletal injuries and joint pain,0.25940337224383914
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,Provide mobile app development strategy and high-level technical guidance,20.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,Provide mobile app development strategy and high-level technical guidance,0.324254215304799
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,"Provide music education, theory instruction, and creative assistance",20.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,"Provide music education, theory instruction, and creative assistance",0.324254215304799
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,Provide personal advice for romantic relationship problems and conflicts,17.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,Provide personal advice for romantic relationship problems and conflicts,0.27561608300907914
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,Provide professional mental health and therapy-related assistance,19.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,Provide professional mental health and therapy-related assistance,0.30804150453955903
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,Provide project management guidance and create project documentation,15.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,Provide project management guidance and create project documentation,0.24319066147859922
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,Provide translation assistance with explanations and language instruction,19.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,Provide translation assistance with explanations and language instruction,0.30804150453955903
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,Review and improve existing React application code and components,20.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,Review and improve existing React application code and components,0.324254215304799
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,Solve and explain mathematical homework problems and academic exercises,20.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,Solve and explain mathematical homework problems and academic exercises,0.324254215304799
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,Translate and format video scripts with dialogue preservation rules,48.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,Translate and format video scripts with dialogue preservation rules,0.7782101167315175
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,Translate non-English text to English preserving original dialogue exactly,285.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,Translate non-English text to English preserving original dialogue exactly,4.620622568093386
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,"Translate text, documents, and multimedia content between languages",15.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,"Translate text, documents, and multimedia content between languages",0.24319066147859922
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,Translate video scripts to English while preserving original dialogue,83.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,Translate video scripts to English while preserving original dialogue,1.3456549935149158
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,Troubleshoot Docker container deployment and configuration issues,20.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,Troubleshoot Docker container deployment and configuration issues,0.324254215304799
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,Troubleshoot and fix database errors and SQL query failures,39.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,Troubleshoot and fix database errors and SQL query failures,0.632295719844358
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,Troubleshoot enterprise server and infrastructure system errors,22.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,Troubleshoot enterprise server and infrastructure system errors,0.35667963683527887
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,Write and debug game development scripts and code,18.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,Write and debug game development scripts and code,0.2918287937743191
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_count,not_classified,3739.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,0,request_pct,not_classified,60.61932555123216
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Assist with game development programming and general gaming support,93.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Assist with game development programming and general gaming support,1.5077821011673151
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Build educational technology systems for academic management and assessment,18.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Build educational technology systems for academic management and assessment,0.2918287937743191
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,"Compare and analyze differences between concepts, items, or create assessments",34.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,"Compare and analyze differences between concepts, items, or create assessments",0.5512321660181583
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,"Create and modify automation scripts for file management, web scraping, and workflow tasks",19.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,"Create and modify automation scripts for file management, web scraping, and workflow tasks",0.30804150453955903
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,"Create and modify professional presentations, diagrams, and visual graphics",48.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,"Create and modify professional presentations, diagrams, and visual graphics",0.7782101167315175
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Create comprehensive K-12 educational materials and teaching resources,105.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Create comprehensive K-12 educational materials and teaching resources,1.7023346303501945
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Create comprehensive business marketing and promotional content materials,70.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Create comprehensive business marketing and promotional content materials,1.1348897535667963
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Debug and fix software code errors across multiple programming languages,289.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Debug and fix software code errors across multiple programming languages,4.685473411154345
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Debug and fix web application errors and technical issues,86.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Debug and fix web application errors and technical issues,1.3942931258106357
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Design and improve web interface components and modern website layouts,46.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Design and improve web interface components and modern website layouts,0.7457846952010376
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Develop AI-powered medical diagnostic and healthcare technology systems,33.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Develop AI-powered medical diagnostic and healthcare technology systems,0.5350194552529183
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Develop and customize AI chatbot systems and conversation styles,54.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Develop and customize AI chatbot systems and conversation styles,0.8754863813229572
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Develop automated trading systems and technical analysis strategies,27.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Develop automated trading systems and technical analysis strategies,0.4377431906614786
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Draft professional business communications and formal documents,69.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Draft professional business communications and formal documents,1.1186770428015564
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Edit and improve existing written content and documents,104.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Edit and improve existing written content and documents,1.6861219195849546
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Extract and analyze information from documents and text sources,48.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Extract and analyze information from documents and text sources,0.7782101167315175
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Extract and transcribe text from images using OCR technology,21.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Extract and transcribe text from images using OCR technology,0.3404669260700389
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,"Fix and improve web and mobile application UI layouts, styling, and components",159.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,"Fix and improve web and mobile application UI layouts, styling, and components",2.5778210116731515
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Help build complete web applications and websites from scratch,86.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Help build complete web applications and websites from scratch,1.3942931258106357
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,"Help create and debug animations, visual effects, and interactive graphics",30.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,"Help create and debug animations, visual effects, and interactive graphics",0.48638132295719844
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Help create and manage professional technical documentation and writing,42.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Help create and manage professional technical documentation and writing,0.6809338521400778
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Help create and optimize comprehensive digital marketing content and strategies,122.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Help create and optimize comprehensive digital marketing content and strategies,1.9779507133592735
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Help develop business technology systems and e-commerce applications,17.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Help develop business technology systems and e-commerce applications,0.27561608300907914
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Help develop complete mobile applications with UI design and Flutter implementation,45.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Help develop complete mobile applications with UI design and Flutter implementation,0.7295719844357976
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Help develop multimedia communication systems and streaming applications,34.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Help develop multimedia communication systems and streaming applications,0.5512321660181583
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Help develop scheduling and calendar management systems,33.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Help develop scheduling and calendar management systems,0.5350194552529183
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,"Help develop, debug, and implement machine learning and AI systems",23.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,"Help develop, debug, and implement machine learning and AI systems",0.3728923476005188
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,"Help develop, debug, and modify web applications and frontend components",118.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,"Help develop, debug, and modify web applications and frontend components",1.913099870298314
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Help discover and access entertainment content across multiple media platforms,46.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Help discover and access entertainment content across multiple media platforms,0.7457846952010376
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Help implement OAuth authentication and API token management for web applications,22.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Help implement OAuth authentication and API token management for web applications,0.35667963683527887
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Help implement cybersecurity measures and privacy protection controls,21.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Help implement cybersecurity measures and privacy protection controls,0.3404669260700389
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Help optimize business workflows and project management systems,77.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Help optimize business workflows and project management systems,1.248378728923476
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Help optimize system performance and troubleshoot technical infrastructure issues,31.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Help optimize system performance and troubleshoot technical infrastructure issues,0.5025940337224384
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Help process and manipulate files including CSV data and PDF documents,48.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Help process and manipulate files including CSV data and PDF documents,0.7782101167315175
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Help research and recommend consumer products across various categories for purchase decisions,52.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Help research and recommend consumer products across various categories for purchase decisions,0.8430609597924773
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Help set up and troubleshoot software development environments and tools,82.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Help set up and troubleshoot software development environments and tools,1.3294422827496757
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,"Help with API development, integration, and debugging",56.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,"Help with API development, integration, and debugging",0.9079118028534372
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,"Help with Docker containerization, deployment, and development workflows",37.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,"Help with Docker containerization, deployment, and development workflows",0.5998702983138782
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Help with Linux system administration and server management tasks,84.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Help with Linux system administration and server management tasks,1.3618677042801557
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,"Help with academic research, writing, and educational content across multiple disciplines",177.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,"Help with academic research, writing, and educational content across multiple disciplines",2.869649805447471
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Help with cloud infrastructure deployment and development platform configuration,43.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Help with cloud infrastructure deployment and development platform configuration,0.6971465629053178
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Help with comprehensive YouTube and TikTok video content creation and management,35.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Help with comprehensive YouTube and TikTok video content creation and management,0.5674448767833982
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Help with creative writing across multiple genres and provide feedback,33.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Help with creative writing across multiple genres and provide feedback,0.5350194552529183
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,"Help with cross-platform mobile app development, debugging, and feature implementation",69.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,"Help with cross-platform mobile app development, debugging, and feature implementation",1.1186770428015564
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Help with cybersecurity implementation and threat analysis tasks,15.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Help with cybersecurity implementation and threat analysis tasks,0.24319066147859922
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,"Help with data analysis, statistical modeling, and business reporting tasks",103.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,"Help with data analysis, statistical modeling, and business reporting tasks",1.6699092088197147
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Help with file system operations and data deletion tasks,17.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Help with file system operations and data deletion tasks,0.27561608300907914
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Help with financial technology systems and payment processing solutions,61.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Help with financial technology systems and payment processing solutions,0.9889753566796368
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Help with game development programming and mobile gaming projects,22.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Help with game development programming and mobile gaming projects,0.35667963683527887
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,"Help with git, GitHub, and software version management",32.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,"Help with git, GitHub, and software version management",0.5188067444876783
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,"Help with job applications, resumes, and career documents",38.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,"Help with job applications, resumes, and career documents",0.6160830090791181
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Help with supply chain operations and inventory management systems,19.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Help with supply chain operations and inventory management systems,0.30804150453955903
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Help with visual design and graphics creation tasks,28.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Help with visual design and graphics creation tasks,0.4539559014267186
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Process and analyze visual media content including images and video files,47.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Process and analyze visual media content including images and video files,0.7619974059662775
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,"Proofread and correct grammar, spelling, and punctuation in documents",25.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,"Proofread and correct grammar, spelling, and punctuation in documents",0.40531776913099876
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,"Provide astrological readings, tarot services, and fortune-telling business content",19.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,"Provide astrological readings, tarot services, and fortune-telling business content",0.30804150453955903
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Provide comprehensive business consulting and strategic development assistance,92.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Provide comprehensive business consulting and strategic development assistance,1.4915693904020753
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Provide comprehensive cloud infrastructure and web hosting technical guidance,22.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Provide comprehensive cloud infrastructure and web hosting technical guidance,0.35667963683527887
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,"Provide comprehensive cooking, nutrition, and meal planning assistance",70.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,"Provide comprehensive cooking, nutrition, and meal planning assistance",1.1348897535667963
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Provide comprehensive database development and management assistance,172.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Provide comprehensive database development and management assistance,2.7885862516212714
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Provide comprehensive financial advice and assistance across multiple domains,99.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Provide comprehensive financial advice and assistance across multiple domains,1.6050583657587547
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Provide comprehensive home maintenance and household management advice,28.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Provide comprehensive home maintenance and household management advice,0.4539559014267186
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Provide comprehensive information about AI systems and their capabilities,78.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Provide comprehensive information about AI systems and their capabilities,1.264591439688716
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Provide comprehensive job search and career advancement support,32.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Provide comprehensive job search and career advancement support,0.5188067444876783
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Provide comprehensive legal assistance and document drafting across multiple practice areas,105.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Provide comprehensive legal assistance and document drafting across multiple practice areas,1.7023346303501945
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Provide comprehensive medical and healthcare guidance across multiple specialties,142.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Provide comprehensive medical and healthcare guidance across multiple specialties,2.302204928664073
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Provide comprehensive multi-technology programming development assistance and technical guidance,228.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Provide comprehensive multi-technology programming development assistance and technical guidance,3.6964980544747084
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Provide comprehensive personal finance management tools and advice,17.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Provide comprehensive personal finance management tools and advice,0.27561608300907914
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Provide comprehensive personal style and beauty advice with product recommendations,15.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Provide comprehensive personal style and beauty advice with product recommendations,0.24319066147859922
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Provide comprehensive travel planning and booking assistance,37.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Provide comprehensive travel planning and booking assistance,0.5998702983138782
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Provide educational assistance and tutoring across multiple academic subjects and disciplines,194.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Provide educational assistance and tutoring across multiple academic subjects and disciplines,3.14526588845655
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Provide personal relationship advice and life guidance support,57.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Provide personal relationship advice and life guidance support,0.9241245136186771
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,"Provide programming education, tutoring, and software development guidance",71.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,"Provide programming education, tutoring, and software development guidance",1.1511024643320364
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Provide religious and spiritual education across diverse traditions and practices,31.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Provide religious and spiritual education across diverse traditions and practices,0.5025940337224384
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,"Provide sports training advice, fitness guidance, and sports-related tools and analysis",49.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,"Provide sports training advice, fitness guidance, and sports-related tools and analysis",0.7944228274967574
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Provide technical assistance and computational support for scientific research projects,62.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Provide technical assistance and computational support for scientific research projects,1.0051880674448768
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Provide technical expertise and academic assistance across scientific and professional domains,23.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Provide technical expertise and academic assistance across scientific and professional domains,0.3728923476005188
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Provide technical support for networking and telecommunications system configuration,34.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Provide technical support for networking and telecommunications system configuration,0.5512321660181583
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,"Provide technical troubleshooting and support for software, hardware, and system issues",112.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,"Provide technical troubleshooting and support for software, hardware, and system issues",1.8158236057068744
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Provide technical troubleshooting support for hardware and equipment problems,45.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Provide technical troubleshooting support for hardware and equipment problems,0.7295719844357976
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Provide translation services and comprehensive language learning assistance across multiple languages,577.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Provide translation services and comprehensive language learning assistance across multiple languages,9.35473411154345
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,"Solve advanced mathematics, physics, and engineering problems",44.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,"Solve advanced mathematics, physics, and engineering problems",0.7133592736705577
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,"Solve advanced programming problems across algorithms, geometry, graphs, and competitive coding",16.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,"Solve advanced programming problems across algorithms, geometry, graphs, and competitive coding",0.25940337224383914
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,Write complete creative works across multiple literary formats with detailed specifications,27.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,Write complete creative works across multiple literary formats with detailed specifications,0.4377431906614786
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_count,not_classified,477.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,1,request_pct,not_classified,7.733463035019455
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_count,"Analyze and process data from documents, visual media, and business sources",198.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_pct,"Analyze and process data from documents, visual media, and business sources",3.2101167315175094
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_count,Assist with creative writing across multiple genres including humor and romantic roleplay,71.0
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_pct,Assist with creative writing across multiple genres including humor and romantic roleplay,1.1511024643320364
+AR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),request,2,request_count,Assist with game development programming and mobile gaming projects,115.0
